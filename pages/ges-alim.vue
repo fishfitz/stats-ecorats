@@ -34,8 +34,8 @@
       <h2 class="title is-5"> Remarques </h2>
       <ul>
         <li> L'alimentation est responsable d'environ ¼ des émissions de gaz à effet de serre résultant de l'activité humaine. </li>
-        <li> Le transport ne représente qu'une très petite part (environ 5%) des émissions liées à l'alimentation. L'impact du transport est encore plus petit (moins d'1%) pour la viande de boeuf. </li>
-        <li> Même à produit équivalent, consommer local ne garantit pas une réduction de son impact. L'importation est parfois moins émettrice que de cultiver en serre des produits hors-saison
+        <li> Le transport ne représente qu'une très petite part (environ 5%) des émissions liées à l'alimentation. L'impact du transport est encore plus petit (moins d'1%) pour la viande de boeuf. Même à produit équivalent,
+          consommer local ne garantit pas une réduction de son impact. L'importation est parfois moins émettrice que de cultiver en serre des produits hors-saison
           (<a href="https://www.researchgate.net/publication/225434851_The_role_of_seasonality_in_lettuce_consumption_A_case_study_of_environmental_and_social_aspects">Hospido 2009</a>). </li>
         <li>
           De manière générale, les produits d'origine animale émettent jusqu'à plusieurs dizaines de fois davantage que ceux d'origine végétale.
