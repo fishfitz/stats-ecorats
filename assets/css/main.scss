@@ -1,0 +1,30 @@
+@import "~assets/css/variables.scss";
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
+body {
+  font-family: 'Raleway', sans-serif!important;
+}
+
+h1.title {
+  text-transform: uppercase;
+  color: #34b666;
+}
+
+.tooltip-header {
+  width: 100%;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid black;
+  display: block;
+}
+
+.tooltip-note {
+  font-size: 8pt;
+  font-style: italic;
+  padding-top: 5px;
+  margin-top: 5px;
+  border-top: 1px solid black;
+  width: 250px;
+  white-space: normal;
+}

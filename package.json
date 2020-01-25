@@ -1,0 +1,32 @@
+{
+  "name": "stats-ecorats",
+  "version": "1.0.0",
+  "description": "Dataviz for Ecorats website.",
+  "author": "ASTRO",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "echarts": "^3.8.3",
+    "nuxt": "^2.5.1",
+    "nuxt-buefy": "^0.3.2",
+    "v-charts": "^1.9.0",
+    "node-sass": "^4.7.2",
+    "raw-loader": "^4.0.0",
+    "sass-loader": "^6.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-html": "^4.0.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-vue": "^4.2.0"
+  }
+}
