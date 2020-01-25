@@ -1,7 +1,7 @@
 +,Pain 🍞,0.1,0.0,0.8,0.2,0.1,0.1,0.1
 +,Maïs 🌽,0.3,0.0,0.5,0.1,0.1,0.1,0.0
 -,Bière 🍺,0.0,0.0,0.2,0.1,0.0,0.5,0.3
--,Avoine,0.0,0.0,1.4,0.0,0.1,0.1,0.0
+-,Avoine 🌿,0.0,0.0,1.4,0.0,0.1,0.1,0.0
 +,Riz 🍚,0.0,0.0,3.6,0.1,0.1,0.1,0.1,La riziculture inondée émet du méthane ; ce phénomène explique l'essentiel des émissions agricoles du riz.
 -,Pomme de terre 🥔,0.0,0.0,0.2,0.0,0.1,0.0,0.0
 +,Sucre (canne) 🍬,1.2,0.0,0.5,0.0,0.8,0.1,0.0
