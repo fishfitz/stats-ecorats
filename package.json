@@ -5,6 +5,7 @@
   "author": "ASTRO",
   "private": true,
   "scripts": {
+    "forever": "NODE_ENV=production forever start .forever.js",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
@@ -15,12 +16,13 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "echarts": "^3.8.3",
+    "node-sass": "^4.7.2",
     "nuxt": "^2.5.1",
     "nuxt-buefy": "^0.3.2",
-    "v-charts": "^1.9.0",
-    "node-sass": "^4.7.2",
+    "nuxt-start": "^2.11.0",
     "raw-loader": "^4.0.0",
-    "sass-loader": "^6.0.6"
+    "sass-loader": "^6.0.6",
+    "v-charts": "^1.9.0"
   },
   "devDependencies": {
     "eslint": "^4.15.0",
