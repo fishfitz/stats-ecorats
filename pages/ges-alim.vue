@@ -106,7 +106,11 @@
       return {
         title: 'Impact de l\'alimentation sur les GES — Les Écorats',
         meta: [
-          { hid: 'description', name: 'description', content: 'Quel impact de l\'alimentation sur les émissions de gaz à effet de serre ? Une data visualisation interractive.' }
+          { hid: 'description', name: 'description', content: 'Quel impact de l\'alimentation sur les émissions de gaz à effet de serre ? Une data visualisation interractive.' },
+          { hid: 'og:image', name: 'og:image', content: 'http://stats.ecorats.org/preview.png' },
+          { hid: 'og:description', name: 'og:description', content: 'Quel impact de l\'alimentation sur les émissions de gaz à effet de serre ? Une data visualisation interractive.' },
+          { hid: 'twitter:image', name: 'twitter:image', content: 'http://stats.ecorats.org/preview.png' },
+          { hid: 'twitter:description', name: 'twitter:description', content: 'Quel impact de l\'alimentation sur les émissions de gaz à effet de serre ? Une data visualisation interractive.' }
         ]
       };
     },
