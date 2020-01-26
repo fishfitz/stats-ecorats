@@ -1,48 +1,48 @@
-+,Pain 🍞,0.1,0.0,0.8,0.2,0.1,0.1,0.1
-+,Maïs 🌽,0.3,0.0,0.5,0.1,0.1,0.1,0.0
--,Bière 🍺,0.0,0.0,0.2,0.1,0.0,0.5,0.3
--,Avoine 🌿,0.0,0.0,1.4,0.0,0.1,0.1,0.0
-+,Riz 🍚,0.0,0.0,3.6,0.1,0.1,0.1,0.1,La riziculture inondée émet du méthane ; ce phénomène explique l'essentiel des émissions agricoles du riz.
--,Pomme de terre 🥔,0.0,0.0,0.2,0.0,0.1,0.0,0.0
-+,Sucre (canne) 🍬,1.2,0.0,0.5,0.0,0.8,0.1,0.0
--,Sucre (bétrave) 🍬,0.0,0.0,0.5,0.2,0.6,0.1,0.0
--,Pois 🥫,0.0,0.0,0.7,0.0,0.1,0.0,0.0
-+,Noix 🌰,-2.1,0.0,2.1,0.0,0.1,0.1,0.0,Les noix ont utilisation des terres négative. En effet les noyers stockent davantage de carbonne que les cultures qu'ils remplaçent.
--,Cacahuète 🥜,0.4,0.0,1.4,0.4,0.1,0.1,0.0
--,Lait de soja 🥛,0.2,0.0,0.1,0.2,0.1,0.1,0.3
--,Tofu 🥘,1.0,0.0,0.5,0.8,0.2,0.2,0.3
--,Huile de soja 🌱,3.1,0.0,1.5,0.3,0.3,0.8,0.0
-+,Huile de palme 🌴,3.1,0.0,2.1,1.3,0.2,0.9,0.0
--,Huile de tournesol 🌻,0.1,0.0,2.1,0.2,0.2,0.9,0.0
--,Huile de colza 🌱,0.2,0.0,2.3,0.2,0.2,0.8,0.0
-+,Huile d'olive 🌱,-0.4,0.0,4.3,0.7,0.5,0.9,0.0
-+,Tomate 🍅,0.4,0.0,0.7,0.0,0.2,0.1,0.0
--,Onion & Poireau 🧅,0.0,0.0,0.2,0.0,0.1,0.0,0.0
-+,Légume-racine 🥕,0.0,0.0,0.2,0.0,0.1,0.0,0.0
--,Chou 🥬,0.0,0.0,0.3,0.0,0.1,0.0,0.0
-+,Citron 🍋,-0.1,0.0,0.3,0.0,0.1,0.0,0.0
-+,Banane 🍌,0.0,0.0,0.3,0.1,0.3,0.1,0.0
--,Pomme 🍏,0.0,0.0,0.2,0.0,0.1,0.0,0.0
--,Baie & Raisin 🍇,0.0,0.0,0.7,0.0,0.2,0.2,0.0
--,Vin 🍷,-0.1,0.0,0.6,0.1,0.1,0.7,0.0
-+,Café ☕,3.7,0.0,10.4,0.6,0.1,1.6,0.1
-+,Chocolat 🍫,14.3,0.0,3.7,0.2,0.1,0.4,0.0
-+,Boeuf (élevage à viande) 🐂,16.3,1.9,39.4,1.3,0.3,0.2,0.2,Il s'agit de vaches exclusivement destinées à la production de viande. L'élevage bovin cumule les émissions de méthane des animaux ainsi que l'espace et la nourriture nécessaire.
-+,Boeuf (réforme) 🐄,0.9,2.5,15.7,1.1,0.4,0.3,0.2,Les vaches de réforme ont d'abord été utilisées pour produire du lait pendant 1 à 5 ans. Il s'agit d'un tier de la viande de boeuf consommée en France (GEB-Institut de l'Élevage).
-+,Agneau & mouton 🐑,0.5,2.4,19.5,1.1,0.5,0.3,0.2
-+,Porc 🐖,1.5,2.9,1.7,0.3,0.3,0.3,0.2
-+,Poulet 🐔,2.5,1.8,0.7,0.4,0.3,0.2,0.2
-+,Lait 🥛,0.5,0.2,1.5,0.1,0.1,0.1,0.3
-+,Fromage 🧀,4.5,2.3,13.1,0.7,0.1,0.2,0.3
-+,Oeuf 🥚,0.7,2.2,1.3,0.0,0.1,0.2,0.0
-+,Poisson d'élevage 🐟,0.5,0.8,3.6,0.0,0.1,0.1,0.0
--,Crustacé d'élevage 🦐,0.2,2.5,8.4,0.0,0.2,0.3,0.2
--,Édulcorants & miel 🍯,0.0,0.0,0.0,0.1,0.7,0.1,0.0
--,Graisse animale 🧈,2.0,2.4,1.2,0.4,0.3,0.3,0.2
--,Buffle 🐃,9.6,2.2,29.0,1.2,0.4,0.3,0.2
--,Beurre 🧈,0.5,0.2,1.5,0.1,0.1,0.1,0.3
-+,Poisson (pêche) 🎣,0.0,0.0,2.4,0.0,0.1,0.1,0.1,Les émissions agricoles pour la pêche tiennent compte du carburant utilisé par les bâteaux.
--,Algue 🌿,0.0,0.0,0.0,0.0,0.0,0.0,0.0
--,Autres légumineuses ☘️,0.0,0.0,1.1,0.0,0.1,0.4,0.0
--,Manioc 🍠,0.6,0.0,0.2,0.0,0.1,0.0,0.0
--,Autres huiles végétales 🌱,2.0,0.0,2.0,0.5,0.3,0.9,0.0
+featured,name,luc,feed,farm,processing,transport,packging,retail,calories,proteines,comment
++,Pain 🍞,0.1,0.0,0.8,0.2,0.1,0.1,0.1,199,9,
++,Maïs 🌽,0.3,0.0,0.5,0.1,0.1,0.1,0.0,399,2.8,
+-,Bière 🍺,0.0,0.0,0.2,0.1,0.0,0.5,0.3,0,0.5,
+-,Avoine 🌿,0.0,0.0,1.4,0.0,0.1,0.1,0.0,362,12,
++,Riz 🍚,0.0,0.0,3.6,0.1,0.1,0.1,0.1,335,2.7,La riziculture inondée émet du méthane ; ce phénomène explique l'essentiel des émissions agricoles du riz.
+-,Pomme de terre 🥔,0.0,0.0,0.2,0.0,0.1,0.0,0.0,85,1.86,
++,Sucre (canne) 🍬,1.2,0.0,0.5,0.0,0.8,0.1,0.0,399,0,
+-,Sucre (bétrave) 🍬,0.0,0.0,0.5,0.2,0.6,0.1,0.0,399,0,
+-,Pois 🥫,0.0,0.0,0.7,0.0,0.1,0.0,0.0,76,4.83,
++,Noix 🌰,-2.1,0.0,2.1,0.0,0.1,0.1,0.0,654,15,Les noix ont utilisation des terres négative. En effet les noyers stockent davantage de carbonne que les cultures qu'ils remplaçent.
+-,Cacahuète 🥜,0.4,0.0,1.4,0.4,0.1,0.1,0.0,567,26,
+-,Lait de soja 🥛,0.2,0.0,0.1,0.2,0.1,0.1,0.3,0,3.3,
+-,Tofu 🥘,1.0,0.0,0.5,0.8,0.2,0.2,0.3,76,8,
+-,Huile de soja 🌱,3.1,0.0,1.5,0.3,0.3,0.8,0.0,884,0,
++,Huile de palme 🌴,3.1,0.0,2.1,1.3,0.2,0.9,0.0,884,0,
+-,Huile de tournesol 🌻,0.1,0.0,2.1,0.2,0.2,0.9,0.0,884,0,
+-,Huile de colza 🌱,0.2,0.0,2.3,0.2,0.2,0.8,0.0,884,0,
++,Huile d'olive 🌱,-0.4,0.0,4.3,0.7,0.5,0.9,0.0,884,0,
++,Tomate 🍅,0.4,0.0,0.7,0.0,0.2,0.1,0.0,21,0.84,
+-,Onion & Poireau 🧅,0.0,0.0,0.2,0.0,0.1,0.0,0.0,50,1.1,
++,Légumes-racines 🥕,0.0,0.0,0.2,0.0,0.1,0.0,0.0,36,0.8,
+-,Chou 🥬,0.0,0.0,0.3,0.0,0.1,0.0,0.0,25,1.3,
++,Citron 🍋,-0.1,0.0,0.3,0.0,0.1,0.0,0.0,22,0.84,
++,Banane 🍌,0.0,0.0,0.3,0.1,0.3,0.1,0.0,89,1.1,
+-,Pomme 🍏,0.0,0.0,0.2,0.0,0.1,0.0,0.0,52,0.3,
+-,Baies & Raisin 🍇,0.0,0.0,0.7,0.0,0.2,0.2,0.0,67,0.6,
+-,Vin 🍷,-0.1,0.0,0.6,0.1,0.1,0.7,0.0,83,0.1,
++,Café ☕,3.7,0.0,10.4,0.6,0.1,1.6,0.1,0,0.1,
++,Chocolat 🍫,14.3,0.0,3.7,0.2,0.1,0.4,0.0,0,0,
++,Boeuf (réforme) 🐄,0.9,2.5,15.7,1.1,0.4,0.3,0.2,250,26,Les vaches de réforme ont d'abord été utilisées pour produire du lait pendant 1 à 5 ans. Il s'agit d'un tier de la viande de boeuf consommée en France (GEB-Institut de l'Élevage).
++,Boeuf (élevage viande) 🐂,16.3,1.9,39.4,1.3,0.3,0.2,0.2,250,26,Il s'agit de vaches exclusivement destinées à la production de viande. L'élevage bovin cumule les émissions de méthane des animaux ainsi que l'espace et la nourriture nécessaire.
++,Agneau & mouton 🐑,0.5,2.4,19.5,1.1,0.5,0.3,0.2,193,17,
++,Porc 🐖,1.5,2.9,1.7,0.3,0.3,0.3,0.2,242,27,
++,Poulet 🐔,2.5,1.8,0.7,0.4,0.3,0.2,0.2,239,27,
++,Lait 🥛,0.5,0.2,1.5,0.1,0.1,0.1,0.3,0,3.4,
++,Fromage 🧀,4.5,2.3,13.1,0.7,0.1,0.2,0.3,402,25,
++,Oeuf 🥚,0.7,2.2,1.3,0.0,0.1,0.2,0.0,155,13,
++,Poisson d'élevage 🐟,0.5,0.8,3.6,0.0,0.1,0.1,0.0,124,19,
+-,Crustacé d'élevage 🦐,0.2,2.5,8.4,0.0,0.2,0.3,0.2,90,26,
+-,Édulcorants & miel 🍯,0.0,0.0,0.0,0.1,0.7,0.1,0.0,304,0.3,
+-,Graisse animale 🧈,2.0,2.4,1.2,0.4,0.3,0.3,0.2,884,0,
+-,Buffle 🐃,9.6,2.2,29.0,1.2,0.4,0.3,0.2,188,30.7,
+-,Beurre 🧈,0.5,0.2,1.5,0.1,0.1,0.1,0.3,717,0.9,
++,Poisson (pêche) 🎣,0.0,0.0,2.4,0.0,0.1,0.1,0.1,124,19,Les émissions agricoles pour la pêche tiennent compte du carburant utilisé par les bâteaux.
+-,Autres légumineuses ☘️,0.0,0.0,1.1,0.0,0.1,0.4,0.0,33,1.8,
+-,Manioc 🍠,0.6,0.0,0.2,0.0,0.1,0.0,0.0,159,1.4,
+-,Autres huiles végétales 🌱,2.0,0.0,2.0,0.5,0.3,0.9,0.0,884,0,

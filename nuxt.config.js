@@ -1,7 +1,7 @@
 export default {
   mode: 'spa',
   head: {
-    title: 'Ecorats dataviz',
+    title: 'Écorats, stats & dataviz',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -22,7 +22,13 @@ export default {
   modules: [
     'nuxt-buefy',
     '@nuxtjs/axios',
-    '@nuxtjs/dotenv'
+    '@nuxtjs/dotenv',
+    ['nuxt-i18n',
+      {
+        locales: ['fr'],
+        defaultLocale: 'fr'
+      }
+    ]
   ],
   build: {
     extend(config) {
