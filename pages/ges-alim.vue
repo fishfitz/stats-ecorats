@@ -113,6 +113,7 @@
           { hid: 'og:type', name: 'og:type', content: 'article' },
           { hid: 'og:image', name: 'og:image', content: 'http://stats.ecorats.org/preview.png' },
           { hid: 'og:description', name: 'og:description', content: 'Quel impact de l\'alimentation sur les émissions de gaz à effet de serre ? Une data visualisation interractive.' },
+          { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
           { hid: 'twitter:site', name: 'twitter:site', content: '@LesEcoRats' },
           { hid: 'twitter:creator', name: 'twitter:creator', content: '@LesEcoRats' }
         ]
