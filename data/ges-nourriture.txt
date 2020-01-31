@@ -8,7 +8,7 @@ featured,name,luc,feed,farm,processing,transport,packging,retail,calories,protei
 +,Sucre (canne) 🍬,1.2,0.0,0.5,0.0,0.8,0.1,0.0,399,0,
 -,Sucre (bétrave) 🍬,0.0,0.0,0.5,0.2,0.6,0.1,0.0,399,0,
 -,Pois 🥫,0.0,0.0,0.7,0.0,0.1,0.0,0.0,76,4.83,
-+,Noix 🌰,-2.1,0.0,2.1,0.0,0.1,0.1,0.0,654,15,Les noix ont utilisation des terres négative. En effet les noyers stockent davantage de carbonne que les cultures qu'ils remplaçent.
++,Noix 🌰,-2.1,0.0,2.1,0.0,0.1,0.1,0.0,654,15,Les noix ont utilisation des terres négative. En effet les noyers stockent davantage de CO₂ que les cultures qu'ils remplaçent.
 -,Cacahuète 🥜,0.4,0.0,1.4,0.4,0.1,0.1,0.0,567,26,
 -,Lait de soja 🥛,0.2,0.0,0.1,0.2,0.1,0.1,0.3,0,3.3,
 -,Tofu 🥘,1.0,0.0,0.5,0.8,0.2,0.2,0.3,76,8,
