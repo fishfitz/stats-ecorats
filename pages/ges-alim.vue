@@ -162,9 +162,9 @@
         if (this.metric === 'proteine') minInterval = 5;
         if (this.metric === 'calorie') minInterval = 1;
 
-        let padding = -200;
-        if (this.metric === 'proteine') padding = -190;
-        if (this.metric === 'calorie') padding = -170;
+        let padding = -265;
+        if (this.metric === 'proteine') padding = -255;
+        if (this.metric === 'calorie') padding = -235;
 
         return {
           title: {
@@ -205,7 +205,7 @@
             icon: 'circle'
           },
           xAxis: {
-            name: `kg de CO₂ émis ${this.metricOptions.find(o => o.key === this.metric).label}`,
+            name: `équivalent kg de CO₂ émis ${this.metricOptions.find(o => o.key === this.metric).label}`,
             nameLocation: 'end',
             nameTextStyle: { fontFamily: 'Raleway', padding: [0, 0, 55, padding] },
             position: 'top',
